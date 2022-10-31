@@ -5,8 +5,8 @@ class Main
 public static void main(args[])
   
   System.out.println("Hello!");
-for ()  
-System.out.println("Yehhhhhh Super !");
+  System.out.println("Yehhhhhh Super !");
+// bla bla bla 
 
 {
 MonApplication app = new MonApplication();
