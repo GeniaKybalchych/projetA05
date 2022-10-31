@@ -3,16 +3,15 @@
 class Main
 {
 public static void main(args[])
-  
+  {
   System.out.println("Hello!");
-  System.out.println("Yehhhhhh Super !");
-// bla bla bla 
 
-{
+    for ()  
+    System.out.println("Yehhhhhh Super !");
+    //Test du code par Francis
+    // bla bla bla 
 MonApplication app = new MonApplication();
 app.run();
 
-}
-
-
+ }
 }
