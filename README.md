@@ -5,3 +5,6 @@ Faire des commits
 
 ## vérifier notre commit:
 vérification du network
+
+## Partie2: 
+Faire des branchs
